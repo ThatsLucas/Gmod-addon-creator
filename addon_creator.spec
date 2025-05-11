@@ -5,7 +5,7 @@ a = Analysis(
     ['addon_creator.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('dict', 'dict')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
