@@ -1,0 +1,5 @@
+ADDON_NAME = ADDON_NAME or {}
+ADDON_NAME.Config = ADDON_NAME.Config or {}
+
+local function LoadAddonFiles()
+    if SERVER then

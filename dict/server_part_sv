@@ -1,0 +1,5 @@
+        include("ADDON_NAME/server/sv_ADDON_NAME_database.lua")
+        include("ADDON_NAME/server/sv_ADDON_NAME_network.lua")
+        include("ADDON_NAME/server/sv_ADDON_NAME_functions.lua")
+        include("ADDON_NAME/server/sv_ADDON_NAME_hooks.lua")
+        include("ADDON_NAME/server/sv_ADDON_NAME_meta.lua")

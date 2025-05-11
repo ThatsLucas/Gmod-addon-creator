@@ -1,0 +1,2 @@
+        include("ADDON_NAME/shared/sh_ADDON_NAME_config.lua")
+        AddCSLuaFile("ADDON_NAME/shared/sh_ADDON_NAME_config.lua")

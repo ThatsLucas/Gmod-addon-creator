@@ -1,0 +1,4 @@
+        include("ADDON_NAME/client/cl_ADDON_NAME_network.lua")
+        include("ADDON_NAME/client/cl_ADDON_NAME_functions.lua")
+        include("ADDON_NAME/client/cl_ADDON_NAME_vgui.lua")
+        include("ADDON_NAME/client/cl_ADDON_NAME_hooks.lua")

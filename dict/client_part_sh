@@ -1,0 +1,1 @@
+        include("ADDON_NAME/config/sh_ADDON_NAME_config.lua")

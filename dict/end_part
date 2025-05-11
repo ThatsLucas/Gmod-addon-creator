@@ -1,0 +1,4 @@
+    end
+end
+
+hook.Add("PostGamemodeLoaded", "ADDON_NAME::LoadFiles", LoadAddonFiles)

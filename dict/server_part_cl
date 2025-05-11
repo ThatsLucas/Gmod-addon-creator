@@ -1,0 +1,4 @@
+        AddCSLuaFile("ADDON_NAME/client/cl_ADDON_NAME_network.lua")
+        AddCSLuaFile("ADDON_NAME/client/cl_ADDON_NAME_functions.lua")
+        AddCSLuaFile("ADDON_NAME/client/cl_ADDON_NAME_vgui.lua")
+        AddCSLuaFile("ADDON_NAME/client/cl_ADDON_NAME_hooks.lua")
